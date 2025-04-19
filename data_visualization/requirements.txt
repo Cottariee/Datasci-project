@@ -1,0 +1,9 @@
+streamlit
+pandas
+pydeck
+networkx
+plotly
+scikit-learn
+matplotlib
+numpy
+pyvis
